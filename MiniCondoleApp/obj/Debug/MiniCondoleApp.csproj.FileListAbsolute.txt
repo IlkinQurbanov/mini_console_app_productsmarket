@@ -1,0 +1,7 @@
+C:\Users\ilkin\source\repos\MiniCondoleApp\MiniCondoleApp\obj\Debug\MiniCondoleApp.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\MiniCondoleApp\MiniCondoleApp\obj\Debug\MiniCondoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\MiniCondoleApp\MiniCondoleApp\bin\Debug\MiniCondoleApp.exe.config
+C:\Users\ilkin\source\repos\MiniCondoleApp\MiniCondoleApp\bin\Debug\MiniCondoleApp.exe
+C:\Users\ilkin\source\repos\MiniCondoleApp\MiniCondoleApp\bin\Debug\MiniCondoleApp.pdb
+C:\Users\ilkin\source\repos\MiniCondoleApp\MiniCondoleApp\obj\Debug\MiniCondoleApp.exe
+C:\Users\ilkin\source\repos\MiniCondoleApp\MiniCondoleApp\obj\Debug\MiniCondoleApp.pdb
